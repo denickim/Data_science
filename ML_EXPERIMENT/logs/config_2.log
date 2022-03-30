@@ -1,0 +1,10 @@
+2019-01-02 18:36:48,220:INFO:logs:*****Starting Training******
+2019-01-02 18:36:48,220:INFO:logs:Parameters are recorded in config_2.yaml
+2019-01-02 18:36:48,224:INFO:logs:*******Training End*******
+2019-01-02 18:36:48,224:DEBUG:logs:******Start Prediction******
+2019-01-02 18:36:48,228:INFO:logs:Accuracy score of  model_2.pkl  is 98.6% 
+2019-01-02 18:38:01,567:INFO:logs:*****Starting Training******
+2019-01-02 18:38:01,567:INFO:logs:Parameters are recorded in main_config.yaml
+2019-01-02 18:38:01,572:INFO:logs:*******Training End*******
+2019-01-02 18:38:01,572:DEBUG:logs:******Start Prediction******
+2019-01-02 18:38:01,577:INFO:logs:Accuracy score of  main.pkl  is 98.1% 
